@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই শহরে তোমায় খুঁজে বেড়াই
+> ধোঁয়ায় ঢাকা আকাশে তোমার ছায়া পাই
+> বুকের ভেতর এক আগুন নীরবে আজ জ্বলে
+> মাতাল এ হাওয়া যেন কী যে আমায় বলে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
